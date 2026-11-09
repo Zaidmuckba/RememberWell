@@ -2,6 +2,19 @@
 
 RememberWell is a Flutter mobile app that supports people living with dementia with gentle, everyday activities for the mind and body. It brings exercise, relaxation, memory games, music and daily reminders together in one simple, friendly app.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/home.png" alt="Home screen" width="420"><br><b>Home</b></td>
+    <td align="center"><img src="screenshots/exercise.png" alt="Chair exercises" width="420"><br><b>Guided exercises</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/meditation.png" alt="Meditation nature sounds" width="420"><br><b>Meditation</b></td>
+    <td align="center"><img src="screenshots/memory-game.png" alt="Card-flip memory game" width="420"><br><b>Memory game</b></td>
+  </tr>
+</table>
+
 ## Features
 
 - **Secure accounts:** sign up, log in and reset passwords with Firebase Authentication
